@@ -65,7 +65,7 @@ After successful testing, the model is deployed to detect fake news in real-time
 
 3. **Run the Code**
    ```bash
-   python fake_news_detection.py
+   To run the Fake News Detection model, simply execute each code cell below.
 
 ---
 
